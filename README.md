@@ -12,6 +12,8 @@ Unique, self-imposed rulesets designed to turn classic games into entirely new e
 
 * 🧟 **[Resident Evil: The Last Challenge](Resident-Evil-The-Last-Challenge.md)**
   * *The ultimate Resident Evil marathon! A massive progression tree challenge mapping the exact order to 100% (Master) the entire franchise from RE0 to RE9, including prerequisites and remakes.*
+* 🩸 **[Fear & Hunger: The Ultimate Achievement Set](Fear-And-Hunger-Achievement-Concept.md)**
+  * *A complete, 100% fan-made concept achievement set featuring 74 custom trophies that capture the punishing, sarcastic, and unforgiving nature of the dungeons.*
 
 ---
 
