@@ -53,15 +53,15 @@ Because killing mere monsters wasn't enough, now you have to spit in the face of
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Safe Word** | Someone forgot to establish boundaries for this pain session. | Defeat The Dominating One. |
-| [🖼️] | **Ignorance is Bliss** | You were overthinking it, so we removed your head. | Defeat The Enlightened One. |
-| [🖼️] | **Couples Therapy Terminated** | She just wanted to spread love... in cosmically terrifying ways. | Defeat Traces of Sylvian. |
-| [🖼️] | **Bloodbath** | Who needs skin anyway? | Defeat Traces of Gro-Goroth. |
-| [🖼️] | **Parental Control** | Grounding the little girl who became an abstract concept. | Defeat The God of Fear & Hunger. |
-| [🖼️] | **Misery Loves Company** | Chambara was practically begging for it, right? | Defeat The Tormented One. |
-| [🖼️] | **The King in... Pieces** | Le'garde? More like Le'gone. | Defeat The Yellow King. |
-| [🖼️] | **No Means No** | Reject the goddess of love, even when she's trying really hard. | Defeat Traces of Sylvian (Hard Mode). |
-| [🖼️] | **God of Destruction, Destroyed** | You just had to flex on the literal embodiment of annihilation, didn't you? | Defeat Traces of Gro-Goroth (Hard Mode). |
+| ![fear-and-hunger-funger-achievements-Safe Word-notigv](https://github.com/user-attachments/assets/13a238da-d7e6-43f6-93d3-2c2817a2283c)| **Safe Word** | Someone forgot to establish boundaries for this pain session. | Defeat The Dominating One. |
+| ![fear-and-hunger-funger-achievements-	Ignorance is Bliss-notigv](https://github.com/user-attachments/assets/722f0c43-dcf0-4a70-898b-7ff594faebd1)| **Ignorance is Bliss** | You were overthinking it, so we removed your head. | Defeat The Enlightened One. |
+| ![fear-and-hunger-funger-achievements-	Couples Therapy Terminated-notigv](https://github.com/user-attachments/assets/3808969d-e52e-4f9a-81f2-2abae5517f2e)| **Couples Therapy Terminated** | She just wanted to spread love... in cosmically terrifying ways. | Defeat Traces of Sylvian. |
+| ![fear-and-hunger-funger-achievements-	Bloodbath-notigv](https://github.com/user-attachments/assets/72f538fb-bf73-4dd3-b526-56e500bf91ea)| **Bloodbath** | Who needs skin anyway? | Defeat Traces of Gro-Goroth. |
+| ![fear-and-hunger-funger-achievements-	Parental Control-notigv](https://github.com/user-attachments/assets/4417b45d-e09a-4c1e-8235-fa14678e1a5e)| **Parental Control** | Grounding the little girl who became an abstract concept. | Defeat The God of Fear & Hunger. |
+| ![fear-and-hunger-funger-achievements-	Misery Loves Company-notigv](https://github.com/user-attachments/assets/7484a617-8905-4266-960c-62e65f2d7906)| **Misery Loves Company** | Chambara was practically begging for it, right? | Defeat The Tormented One. |
+| ![fear-and-hunger-funger-achievements-	The King in  Pieces-notigv](https://github.com/user-attachments/assets/39fd4282-2ee0-44d8-bc5d-af8e5b3cbb9a)| **The King in... Pieces** | Le'garde? More like Le'gone. | Defeat The Yellow King. |
+| ![fear-and-hunger-funger-achievements-	No Means No-notigv](https://github.com/user-attachments/assets/6641d69f-6381-41a4-8a18-01fc8f1617a3)| **No Means No** | Reject the goddess of love, even when she's trying really hard. | Defeat Traces of Sylvian (Hard Mode). |
+| ![fear-and-hunger-funger-achievements-	God of Destruction, Destroyed-notigv](https://github.com/user-attachments/assets/c2c14183-4de1-4973-b5f0-797ed120b4d7)| **God of Destruction, Destroyed** | You just had to flex on the literal embodiment of annihilation, didn't you? | Defeat Traces of Gro-Goroth (Hard Mode). |
 
 ---
 
