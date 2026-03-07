@@ -120,16 +120,16 @@ Enjoy your stay! Please do not feed the wildlife and try not to lose your mind.
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Mom's Basement** | Smells like mold, despair, and poor life choices. | Enter the Basement. |
-| [🖼️] | **Maximum Security** | Welcome to the most unwelcoming bed and breakfast. | Enter the Fortress / Prisons. |
-| [🖼️] | **Into the Woods** | Watch your step, the flora is just as deadly as the fauna. | Enter the Thicket. |
-| [🖼️] | **Hitting Rock Bottom** | You thought the surface was bad? Oh, sweet summer child... | Enter the Underground (Caves). |
-| [🖼️] | **Pressure Drop** | Even the light gave up on this place. | Enter the Depths. |
-| [🖼️] | **The City of Gods** | A great place for a vacation, if you ignore the cosmic horrors. | Enter Ma'habre. |
-| [🖼️] | **The King in the North** | Winter isn't coming, but the old gods are already here. | Enter Ma'habre (North). |
-| [🖼️] | **The King of the South** | Unbowed, Unbent, Unbroken... until you step on a rusty nail. | Enter Ma'habre (South). |
-| [🖼️] | **Journey to the East** | Seeking enlightenment, finding only more ways to die. | Enter Ma'habre (East). |
-| [🖼️] | **The Wild West** | It's high noon somewhere in this timeless nightmare. | Enter Ma'habre (West). |
+| ![fear-and-hunger-funger-achievements-Mom&#39;s Basement-notigv](https://github.com/user-attachments/assets/fbb3272c-7a80-4d89-83fa-71efdf66e41f)| **Mom's Basement** | Smells like mold, despair, and poor life choices. | Enter the Basement. |
+| ![fear-and-hunger-funger-achievements-Maximum Security-notigv](https://github.com/user-attachments/assets/c188ce5d-ba71-4557-9544-8d47fde51e8d)| **Maximum Security** | Welcome to the most unwelcoming bed and breakfast. | Enter the Fortress / Prisons. |
+| ![fear-and-hunger-funger-achievements-Into the Woods-notigv](https://github.com/user-attachments/assets/87e12899-d4a9-4d07-85db-18b6942a4c95)| **Into the Woods** | Watch your step, the flora is just as deadly as the fauna. | Enter the Thicket. |
+| ![fear-and-hunger-funger-achievements-Hitting Rock Bottom-notigv](https://github.com/user-attachments/assets/67a60af8-810e-4969-8c61-b77aaefb4227)| **Hitting Rock Bottom** | You thought the surface was bad? Oh, sweet summer child... | Enter the Underground (Caves). |
+| ![fear-and-hunger-funger-achievements-Pressure Drop-notigv](https://github.com/user-attachments/assets/193ca4bb-3edf-45ed-8917-8bd91d1fdf86)| **Pressure Drop** | Even the light gave up on this place. | Enter the Depths. |
+| ![fear-and-hunger-funger-achievements-The City of Gods-notigv](https://github.com/user-attachments/assets/ab54d63d-6a1a-4d44-a7a9-cb7e72e843a5)| **The City of Gods** | A great place for a vacation, if you ignore the cosmic horrors. | Enter Ma'habre. |
+| ![fear-and-hunger-funger-achievements-The King in the North-notigv](https://github.com/user-attachments/assets/544884ac-e0b7-4a97-8c4c-0428ff99a4ef)| **The King in the North** | Winter isn't coming, but the old gods are already here. | Enter Ma'habre (North). |
+| ![fear-and-hunger-funger-achievements-The King of the South-notigv](https://github.com/user-attachments/assets/0d4d8c78-8918-44cc-9854-d2c17a2bb2cc)| **The King of the South** | Unbowed, Unbent, Unbroken... until you step on a rusty nail. | Enter Ma'habre (South). |
+| ![fear-and-hunger-funger-achievements-Journey to the East-notigv](https://github.com/user-attachments/assets/c7c99f6f-cd74-4c2b-9a8e-c5b52559659c)| **Journey to the East** | Seeking enlightenment, finding only more ways to die. | Enter Ma'habre (East). |
+| ![fear-and-hunger-funger-achievements-The Wild West-notigv](https://github.com/user-attachments/assets/f54056b5-56a7-4ec6-966e-be1e17554d6b)| **The Wild West** | It's high noon somewhere in this timeless nightmare. | Enter Ma'habre (West). |
 
 ---
 
@@ -138,12 +138,12 @@ Because sometimes the dungeon doesn't break you, you break yourself!
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **'Tis But a Scratch** | Walk it off. You still have your teeth, don't you? | Lose all 4 limbs on your main character. |
-| [🖼️] | **Look Ma, No Hands!** | Opening doors with your face is a valid strategy now. | Lose both arms. |
-| [🖼️] | **Kleptomania** | Old habits die hard, especially when you are starving. | Use the 'Steal' skill successfully. |
-| [🖼️] | **Simp Resuscitation** | You defied death itself just for a guy who doesn't even care about you. | Resurrect Le'garde. |
-| [🖼️] | **The Bookworm** | Reading in the dark ruins your eyes. And your sanity. | Read 10 different lore books. |
-| [🖼️] | **You Are What You Eat** | Fine dining in the dungeons. Bon appétit! | Use the 'Devour' skill on a defeated enemy. |
+| ![fear-and-hunger-funger-achievements-&#39;Tis But a Scratch-notigv](https://github.com/user-attachments/assets/1f44e3d4-dc2f-4d19-869c-eea5ad94458c)| **'Tis But a Scratch** | Walk it off. You still have your teeth, don't you? | Lose all 4 limbs on your main character. |
+| ![fear-and-hunger-funger-achievements-Look Ma, No Hands!-notigv](https://github.com/user-attachments/assets/726688aa-0479-4766-b2e7-41d537a988eb)| **Look Ma, No Hands!** | Opening doors with your face is a valid strategy now. | Lose both arms. |
+| ![fear-and-hunger-funger-achievements-Kleptomania-notigv](https://github.com/user-attachments/assets/f57142e7-b089-433f-b258-39b521cfbbb5)| **Kleptomania** | Old habits die hard, especially when you are starving. | Use the 'Steal' skill successfully. |
+| ![fear-and-hunger-funger-achievements-Simp Resuscitation-notigv](https://github.com/user-attachments/assets/eadd03a3-a719-4ba8-a1a6-5c6b6112269a)| **Simp Resuscitation** | You defied death itself just for a guy who doesn't even care about you. | Resurrect Le'garde. |
+| ![fear-and-hunger-funger-achievements-The Bookworm-notigv](https://github.com/user-attachments/assets/494ffbbb-5094-4b88-bcf7-3db82c4b4f53)| **The Bookworm** | Reading in the dark ruins your eyes. And your sanity. | Read 10 different lore books. |
+| ![fear-and-hunger-funger-achievements-You Are What You Eat-notigv](https://github.com/user-attachments/assets/5ee30990-6359-472e-9cac-1bc4606988a6)| **You Are What You Eat** | Fine dining in the dungeons. Bon appétit! | Use the 'Devour' skill on a defeated enemy. |
 
 ---
 
