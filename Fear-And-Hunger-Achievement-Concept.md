@@ -1,4 +1,4 @@
-![fear-and-hunger-funger-achievements-set-notigv](https://github.com/user-attachments/assets/e2b1440b-6c6b-419f-a89f-fab0798c61b7)
+![fear-and-hunger-funger-achievements-set-notigv](https://github.com/user-attachments/assets/2fe32807-d730-4265-a345-5f0c6602f862)
 
 # Fear & Hunger: The Ultimate Achievement Set
 **By NotiGV**
@@ -14,13 +14,13 @@ This is where the game teaches you its golden rule: you are not special, and the
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| ![fear-and-hunger-funger-achievements-welcome-to-fear and hunger-notigv](https://github.com/user-attachments/assets/b74182b8-6477-4655-979e-b31a287eee19)| **Welcome to Fear & Hunger** | Discover that even the air here wants you dead. | Die for the first time. |
-| ![fear-and-hunger-funger-achievements-Heads I Win, Tails You Die-notigv](https://github.com/user-attachments/assets/6f1b1a9f-fa56-448a-9bca-6118b279ee2c)| **Heads I Win, Tails You Die** | The illusion of control didn't last long, did it? | Fail your first coin flip. |
-| ![fear-and-hunger-funger-achievements-Statistically Improbable-notigv](https://github.com/user-attachments/assets/45e52cc1-cb9d-493b-84d8-dcf73f74bab9)| **Statistically Improbable** | Math hates you just as much as the old gods do. | Fail a coin flip using the Lucky Coin. |
-| ![fear-and-hunger-funger-achievements-The Devil&#39;s Luck-notigv](https://github.com/user-attachments/assets/8d07fa32-f560-40f4-97cd-ce7982e8eecc)| **The Devil's Luck** | You should consider never stepping foot in a casino again. | Fail 5 coin flips in a single run. |
-| ![fear-and-hunger-funger-achievements-Till Flesh Do Us Part-notigv](https://github.com/user-attachments/assets/90e0d4e9-bbd4-4190-811a-d80e964d1b72)| **Till Flesh Do Us Part** | Literally inseparable. True love is disgusting. | Attain the ultimate form via Marriage of Flesh. |
-| ![fear-and-hunger-funger-achievements-	Stranger Danger-notigv](https://github.com/user-attachments/assets/c4d22e44-0fec-4709-9cb5-a8851ed8d5f3)| **Stranger Danger** | Didn't your mother teach you not to talk to creepy furries? | Reach a closure in the relationship with Pocketcat. |
-| ![fear-and-hunger-funger-achievements-Certified Masochist-notigv](https://github.com/user-attachments/assets/4130e3f2-3b55-4e18-87ca-b0406ce2f7eb)| **Certified Masochist** | Pain is just weakness leaving the body... along with a lot of blood. | Find and equip the Penance Armor. |
+| ![fear-and-hunger-funger-achievements-Welcome to Fear   Hunger-notigv](https://github.com/user-attachments/assets/cfc52a6d-e70c-4ad5-bf3d-84aa8693b8df)| **Welcome to Fear & Hunger** | Discover that even the air here wants you dead. | Die for the first time. |
+| ![fear-and-hunger-funger-achievements-Heads I Win, Tails You Die-notigv](https://github.com/user-attachments/assets/ebfda59b-20db-419a-8417-2628963a62c6)| **Heads I Win, Tails You Die** | The illusion of control didn't last long, did it? | Fail your first coin flip. |
+| ![fear-and-hunger-funger-achievements-Statistically Improbable-notigv](https://github.com/user-attachments/assets/dce056ea-4a94-4479-9ef0-387aa68789ab)| **Statistically Improbable** | Math hates you just as much as the old gods do. | Fail a coin flip using the Lucky Coin. |
+| ![fear-and-hunger-devils-luck-achievement-notigv](https://github.com/user-attachments/assets/05018aae-1711-4acb-9075-d542ab698369)| **The Devil's Luck** | You should consider never stepping foot in a casino again. | Fail 5 coin flips in a single run. |
+| ![fear-and-hunger-funger-achievements-	Till Flesh Do Us Part-notigv](https://github.com/user-attachments/assets/c6e9a25a-4d6e-473d-8c89-a30db5d4c7d9)| **Till Flesh Do Us Part** | Literally inseparable. True love is disgusting. | Attain the ultimate form via Marriage of Flesh. |
+| ![fear-and-hunger-funger-achievements-	Stranger Danger-notigv](https://github.com/user-attachments/assets/5d8d53a1-45a1-4dec-b7eb-532c256a26e2)| **Stranger Danger** | Didn't your mother teach you not to talk to creepy furries? | Reach a closure in the relationship with Pocketcat. |
+| ![fear-and-hunger-funger-achievements-	Certified Masochist-notigv](https://github.com/user-attachments/assets/93d9e688-90df-4ba1-92e0-7188292f6477)| **Certified Masochist** | Pain is just weakness leaving the body... along with a lot of blood. | Find and equip the Penance Armor. |
 
 ---
 
@@ -156,6 +156,7 @@ Hope you enjoyed the list!! :D
 
 ---
 
+>
 > ***Disclaimer & Credits:*** This conceptual achievement list, including its structure, titles, and humorous descriptions, was designed and written by NotiGV as a tribute to the punishing experience of the dungeons.
 >
 > ***Asset & Property Rights:*** Fear & Hunger, its universe, lore, characters, and in-game mechanics are the sole intellectual property of Miro Haverinen. This guide is a 100% unofficial, fan-made concept created purely for community entertainment and discussion. It does not reflect any official updates or actual Steam achievements.
