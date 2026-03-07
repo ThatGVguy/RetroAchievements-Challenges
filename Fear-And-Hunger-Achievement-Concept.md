@@ -29,22 +29,22 @@ The lovely locals you will meet during your stay. Spoiler alert: none of them wa
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Cut Off One Head...** | ...wait, no, more don't grow back here. It just dies. | Defeat the Humanhydra. |
-| [🖼️] | **The Very Hungry Caterpillar** | That chrysalis was hiding incomprehensible horrors. | Defeat the Butterfly. |
-| [🖼️] | **Pest Control** | The early bird crushes your skull. | Defeat Crow Mauler. |
-| [🖼️] | **Groundhog Day** | How many times do I have to teach you this lesson, old man? | Defeat Crow Mauler again. |
-| [🖼️] | **Deep Sea Sushi** | Bring your own soy sauce and pray you don't get food poisoning. | Defeat the Salmonsnake. |
-| [🖼️] | **Maternal Instinct** | A prime example that not all mothers are nurturing. | Defeat Cavemother. |
-| [🖼️] | **Extreme Exfoliation** | That skincare routine really got out of hand. | Defeat Skin Granny. |
-| [🖼️] | **To Be or Not To Be... Dismembered** | A true theatrical tragedy. Curtain call. | Defeat Iron Shakespeare. |
-| [🖼️] | **Not Your Fairy Godmother** | Wait, wasn't she supposed to offer me a poisoned apple? | Defeat Black Witch. |
-| [🖼️] | **A Taste of Your Own Medicine** | Turns out the torturer doesn't have a very high pain tolerance. | Defeat Trortur. |
-| [🖼️] | **The Elder They Are...** | ...The harder they hit. Good thing you hit back harder. | Defeat Old Knight. |
-| [🖼️] | **No ID, No Pulse** | I forgot your name anyway. | Defeat Nameless Guardian. |
-| [🖼️] | **Boomer Remover** | His watch has officially ended. | Defeat Old Guardian. |
-| [🖼️] | **Biblically Inaccurate Angel** | That is definitely NOT a messenger of peace. | Defeat White Angel. |
-| [🖼️] | **Total Eclipse** | Her moonlight has officially been snuffed out. | Defeat Lady of the Moon. |
-| [🖼️] | **A Minor Inconvenience** | Just another horrific abomination blocking the hallway. | Defeat Greater Blight. |
+| ![fear-and-hunger-funger-achievements-	Cut Off One Head -notigv](https://github.com/user-attachments/assets/dd0ef427-8827-4a40-8ac0-58a84df8c98f)| **Cut Off One Head...** | ...wait, no, more don't grow back here. It just dies. | Defeat the Humanhydra. |
+| ![fear-and-hunger-funger-achievements-	The Very Hungry Caterpillar-notigv](https://github.com/user-attachments/assets/9f6b3fdb-1eda-4d24-ad5a-c2e77f76ab6a)| **The Very Hungry Caterpillar** | That chrysalis was hiding incomprehensible horrors. | Defeat the Butterfly. |
+| ![fear-and-hunger-funger-achievements-	Pest Control-notigv](https://github.com/user-attachments/assets/682acb0d-f9d8-414c-bb6a-6c9c5cb18a6c)| **Pest Control** | The early bird crushes your skull. | Defeat Crow Mauler. |
+| ![fear-and-hunger-funger-achievements-	Groundhog Day-notigv](https://github.com/user-attachments/assets/2cc0e4f8-92ec-4a14-9699-b7ed60e7e3c4)| **Groundhog Day** | How many times do I have to teach you this lesson, old man? | Defeat Crow Mauler again. |
+| ![fear-and-hunger-funger-achievements-	Deep Sea Sushi-notigv](https://github.com/user-attachments/assets/98011629-884b-482a-82a8-cdfe018ec274)| **Deep Sea Sushi** | Bring your own soy sauce and pray you don't get food poisoning. | Defeat the Salmonsnake. |
+| ![fear-and-hunger-funger-achievements-	Maternal Instinct-notigv](https://github.com/user-attachments/assets/82068377-1509-4e1d-924b-d26d3e2669ab)| **Maternal Instinct** | A prime example that not all mothers are nurturing. | Defeat Cavemother. |
+| ![fear-and-hunger-funger-achievements-	Extreme Exfoliation-notigv](https://github.com/user-attachments/assets/dba88e3e-c82b-4caf-adb5-06af346a889b)| **Extreme Exfoliation** | That skincare routine really got out of hand. | Defeat Skin Granny. |
+| ![fear-and-hunger-funger-achievements-	To Be or Not To Be  Dismembered-notigv](https://github.com/user-attachments/assets/6d2b7567-ac67-4125-b6de-7301b97ccc7e)| **To Be or Not To Be... Dismembered** | A true theatrical tragedy. Curtain call. | Defeat Iron Shakespeare. |
+| ![fear-and-hunger-funger-achievements-	Not Your Fairy Godmother-notigv](https://github.com/user-attachments/assets/11b7c509-f532-4fe3-88c8-88e8d61e971e)| **Not Your Fairy Godmother** | Wait, wasn't she supposed to offer me a poisoned apple? | Defeat Black Witch. |
+| ![fear-and-hunger-funger-achievements-	A Taste of Your Own Medicine-notigv](https://github.com/user-attachments/assets/f8389fbe-2dff-41bf-8daa-f909f73d6d72)| **A Taste of Your Own Medicine** | Turns out the torturer doesn't have a very high pain tolerance. | Defeat Trortur. |
+| ![fear-and-hunger-funger-achievements-	The Elder They Are -notigv](https://github.com/user-attachments/assets/3ceb1e63-87f0-4298-be00-690e591f95fc)| **The Elder They Are...** | ...The harder they hit. Good thing you hit back harder. | Defeat Old Knight. |
+| ![fear-and-hunger-funger-achievements-No ID, No Pulse-notigv](https://github.com/user-attachments/assets/6e731e77-2f7a-401b-9dba-db23a8dbbde7)| **No ID, No Pulse** | I forgot your name anyway. | Defeat Nameless Guardian. |
+| ![fear-and-hunger-funger-achievements-	Boomer Remover-notigv](https://github.com/user-attachments/assets/0f813a55-055b-4369-b03b-5bece6a4b6b8)| **Boomer Remover** | His watch has officially ended. | Defeat Old Guardian. |
+| ![fear-and-hunger-funger-achievements-	Biblically Inaccurate Angel-notigv](https://github.com/user-attachments/assets/29384041-a2df-4756-bb72-ae0c35e89f54)| **Biblically Inaccurate Angel** | That is definitely NOT a messenger of peace. | Defeat White Angel. |
+| ![fear-and-hunger-funger-achievements-	Total Eclipse-notigv](https://github.com/user-attachments/assets/99c5297f-3e2f-493f-b60f-21710269c14e)| **Total Eclipse** | Her moonlight has officially been snuffed out. | Defeat Lady of the Moon. |
+| ![fear-and-hunger-funger-achievements-A Minor Inconvenience-notigv](https://github.com/user-attachments/assets/ab49874e-5638-4a37-95e6-2a24d24bb5d4)| **A Minor Inconvenience** | Just another horrific abomination blocking the hallway. | Defeat Greater Blight. |
 
 ---
 
