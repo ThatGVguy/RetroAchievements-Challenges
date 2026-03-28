@@ -168,3 +168,8 @@ Hope you enjoyed the list!! :D
 > ***Editing Process:*** To guarantee high-quality reading, accurate grammar, and an optimal format for the Steam community, digital creation and language assistance tools were utilized during the final editing and proofreading phases of this text.
 
 *May Alll-mer have mercy on your coin flips. :D*
+
+## 📊 Download the Achievement Tracker
+Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the dungeons! 
+
+👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26326167/Fearn.and.hunger_.The.Ultimate.Achievement.Set.-.NotiGV.xlsx)**
