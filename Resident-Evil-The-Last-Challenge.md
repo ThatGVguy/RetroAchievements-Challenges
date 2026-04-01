@@ -1,7 +1,7 @@
 ![Resident-Evil-The-last-Challenge-custom-RE-notigv](https://github.com/user-attachments/assets/75b406b4-58b1-4f6d-9853-fd170cd9972a)
 
 # Resident Evil: The Last Challenge
-**By NotiGV**
+**By ThatGVguy**
 
 A fast, no-nonsense guide to the ultimate Resident Evil marathon. We are not just beating the games; we are unlocking the entire franchise like a massive RPG skill tree! :D
 
