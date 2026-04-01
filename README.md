@@ -1,5 +1,5 @@
 # 🏆 RetroAchievements Guides & Custom Challenges
-**Created by NotiGV :D**
+**Created by ThatGVguy :D**
 
 Welcome to my central vault for all things **RetroAchievements**! 
 
