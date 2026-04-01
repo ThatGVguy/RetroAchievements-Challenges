@@ -146,7 +146,7 @@ If you prefer to read this guide with rich formatting, see the step-by-step imag
 
 ---
 
-> ***Disclaimer & Credits:*** The "Resident Evil: The Last Challenge" format, progression tree, and guide structure were designed by NotiGV as a community-driven marathon for achievement hunters.
+> ***Disclaimer & Credits:*** The "Resident Evil: The Last Challenge" format, progression tree, and guide structure were designed by ThatGVguy as a community-driven marathon for achievement hunters.
 >
 > ***Asset & Property Rights:*** All games, character names, cover art, and the Resident Evil (Biohazard) intellectual property belong entirely to Capcom Co., Ltd. This guide is a fan-made resource created to encourage players to experience the entire franchise legally through official PC releases and community emulation platforms.
 >
