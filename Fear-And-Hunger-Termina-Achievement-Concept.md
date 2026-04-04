@@ -117,16 +117,16 @@ If it isn't nailed down, it goes in your inventory. Even if it's dirty, cursed, 
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **Bingo Time!** | A fine pilot jacket. Some guy named Leon from 2004 wants his look back. | Obtain or equip the Pilot jacket. |
-| [Icon] | **Demon Blood Sword** | A sword forged from demonic blood. Now you just need a magical yellow dog. | Obtain and equip the Blood sword. |
-| [Icon] | **How Is This Supposed To Heal Me?** | Crushing two random colored weeds together to cure a lethal infection. Don't question the logic. | Craft or use Mixed herbs (red and green). |
-| [Icon] | **This is My Boomstick!** | Shop smart. Shop Prehevil. | Obtain and equip the 12-gauge Trenchgun. |
-| [Icon] | **Wait, Let Me Read This** | Stopping to read a diary while a cosmic horror is actively trying to eat you. A survival horror classic. | Read 10 different lore notes or books. |
-| [Icon] | **Desperate Measures** | Patching a bleeding wound with dirty toilet paper. Enjoy your new infection! | Use Dirty toilet paper to cure bleeding. |
-| [Icon] | **Arts and Crafts** | The world is ending, blood is raining from the sky, and you are building a toy pig out of a pinecone. | Craft and equip the Pinecone Pig. |
-| [Icon] | **DIY Massacre** | Who needs ancient magic when you have power tools and duct tape? | Craft the Meat grinder. |
-| [Icon] | **A Relic from the Past** | Wait, what is a northern Vinland spear doing in Bohemia? | Obtain the Sergal spear. |
-| [Icon] | **Pawn Shop of the Damned** | Trading rusty pearls to a radiating cosmic entity in exchange for a spiked bat. What a wonderful economy. | Buy the Mauler from the Radiating One. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Bingo Time!](https://github.com/user-attachments/assets/70907605-8455-4e65-b68e-95a03e4148df)| **Bingo Time!** | A fine pilot jacket. Some guy named Leon from 2004 wants his look back. | Obtain or equip the Pilot jacket (playing as anyone except Karin). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Demon Blood Sword](https://github.com/user-attachments/assets/f1805598-cf16-448c-8bd4-9fadbd739949)| **Demon Blood Sword** | A sword forged from demonic blood. Now you just need a magical yellow dog. | Obtain and equip the Blood sword. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-How Is This Supposed To Heal Me_](https://github.com/user-attachments/assets/12906587-1ed4-454f-add5-fe57b490f7a5)| **How Is This Supposed To Heal Me?** | Crushing two random colored weeds together to cure a lethal infection. Don't question the logic. | Craft or use Mixed herbs (red and green). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-This is My Boomstick!](https://github.com/user-attachments/assets/43c57f3e-2b6b-4e35-a356-385740fadc37)| **This is My Boomstick!** | Shop smart. Shop Prehevil. | Obtain and equip the 12-gauge Trenchgun. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Wait, Let Me Read This](https://github.com/user-attachments/assets/032b0bbc-40dd-45d2-9a5b-7a1649488bc7)| **Wait, Let Me Read This** | Stopping to read a diary while a cosmic horror is actively trying to eat you. A survival horror classic. | Read 10 different lore notes or books. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Desperate Measures](https://github.com/user-attachments/assets/c0b68bcf-c882-4fad-a2b8-b1148abfd4ed)| **Desperate Measures** | Patching a bleeding wound with dirty toilet paper. Enjoy your new infection! | Use Dirty toilet paper to cure bleeding. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Arts and Crafts](https://github.com/user-attachments/assets/66ab9bef-bfa1-454a-9fc8-d8cce586e892)| **Arts and Crafts** | The world is ending, blood is raining from the sky, and you are building a toy pig out of a pinecone. | Craft and equip the Pinecone Pig. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-DIY Massacre](https://github.com/user-attachments/assets/05996544-70aa-4d4a-a5aa-5217a8f732b8)| **DIY Massacre** | Who needs ancient magic when you have power tools and duct tape? | Craft the Meat grinder. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-A Relic from the Past](https://github.com/user-attachments/assets/f582e8f5-dffa-4724-86ea-63876b4c5152)| **A Relic from the Past** | Wait, what is a northern Vinland spear doing in Bohemia? | Obtain the Sergal spear. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Pawn Shop of the Damned](https://github.com/user-attachments/assets/3dd0dfd9-eecd-45e1-8af3-f783e30dac19)| **Pawn Shop of the Damned** | Trading rusty pearls to a radiating cosmic entity in exchange for a spiked bat. What a wonderful economy. | Buy the Mauler from the Radiating One. |
 
 ### 💀 Glutton for Punishment (Difficulties)
 
