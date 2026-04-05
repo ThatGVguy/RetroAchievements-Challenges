@@ -2,7 +2,8 @@
 
 # Fear & Hunger 2: Termina - The Ultimate Achievement Set
 
-By ThatGVguy
+**By ThatGVguy**
+
 A complete, fan-made achievement list that truly captures the punishing, sarcastic and unforgiving nature of the Festival of Termina. :D
 Includes 93 custom achievements divided by categories to track your descent into madness. Let's embrace the suffering!! :D
 
