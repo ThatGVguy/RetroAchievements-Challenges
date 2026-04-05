@@ -31,27 +31,27 @@ The lovely locals and your former friends you will meet during your stay. Spoile
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **Lumberjacked** | He just wanted to axe you a question. | Defeat the Woodsman. |
-| [Icon] | **Wet Floor Sign** | He really takes his cleaning duties in the workshop too seriously. | Defeat the Janitor in The Dream (Workshop). |
-| [Icon] | **Peppa's Dark Phase** | This little piggy went to the market, and this little piggy went absolutely insane. | Defeat Vile. |
-| [Icon] | **Stop Resisting!** | Prehevil's police department has a very aggressive neighborhood watch program. | Defeat a Bobby. |
-| [Icon] | **Aggressive Landscaping** | Jumping out of a leaf pile is a great way to make friends. | Defeat an Owl cultist hiding within a leaf pile. |
-| [Icon] | **Unmasking the Truth** | He failed the vibe check. And the coffin check. | Defeat a Death mask that spawns from a coffin. |
-| [Icon] | **Terrible Parenting** | The Orphanage's daycare program leaves a lot to be desired. | Defeat a Fallen cherub in the Orphanage. |
-| [Icon] | **What a Dickhead** | Literally. Just... literally. No metaphors here. | Defeat a Bellend. |
-| [Icon] | **Who's a Bad Boy?** | Don't pet him. Seriously, go wash your hands immediately. | Defeat a Fecal hound. |
-| [Icon] | **Fursona Unlocked** | Embracing your inner furry at the worst possible time. | Defeat Pocketcat (Daan). |
-| [Icon] | **The Elephant in the Room** | We really need to talk about your new look, Abella. | Defeat Chaugnar. |
-| [Icon] | **Galaxy Brain** | His mind expanded a bit too much. | Defeat Mastermind. |
-| [Icon] | **Autobots, Roll Out!** | Wheelchair accessibility has never been this terrifying. | Defeat Mechanical dance. |
-| [Icon] | **I've Covered Wars, You Know** | The scoop of a lifetime, ruined by eldritch madness. | Defeat Valkyrie. |
-| [Icon] | **Heavyweight Champion** | He didn't hear no bell. | Defeat Giant. |
-| [Icon] | **Sniper Elite** | Keep your head down and pray he misses. | Defeat Weeping scope. |
-| [Icon] | **Social Butterfly** | That's one way to avoid socializing with the rest of the festival. | Defeat Cocoon. |
-| [Icon] | **Overly Attached Girlfriend** | Toxic Yuri reaches its absolute peak. | Defeat Dysmorphia. |
-| [Icon] | **The Salaryman Snaps** | Corporate burnout hits differently in Prehevil. | Defeat Judgement. |
-| [Icon] | **Hell's Kitchen** | This pie is raw, and so is my flesh. | Defeat Gentleman. |
-| [Icon] | **Inside and Out** | He finally looks exactly like his personality. | Defeat Monster. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Lumberjacked](https://github.com/user-attachments/assets/49abd88d-ff2d-4333-a064-9f4487e3fcd1)| **Lumberjacked** | He just wanted to axe you a question. | Defeat the Woodsman. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Wet Floor Sign](https://github.com/user-attachments/assets/9e2fe6f1-f33b-4166-adeb-0599432e96c5)| **Wet Floor Sign** | He really takes his cleaning duties in the workshop too seriously. | Defeat the Janitor in The Dream (Workshop). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Peppa&#39;s Dark Phase](https://github.com/user-attachments/assets/35e87765-c021-40fe-a027-0bdc12592c87)| **Peppa's Dark Phase** | This little piggy went to the market, and this little piggy went absolutely insane. | Defeat Vile. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Stop Resisting!](https://github.com/user-attachments/assets/b6b12d05-ac83-4462-8714-da9d845db909)| **Stop Resisting!** | Prehevil's police department has a very aggressive neighborhood watch program. | Defeat a Bobby. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Aggressive Landscaping](https://github.com/user-attachments/assets/a92cf5cc-508e-4987-af00-bff6bf678878)| **Aggressive Landscaping** | Jumping out of a leaf pile is a great way to make friends. | Defeat an Owl cultist hiding within a leaf pile. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Unmasking the Truth](https://github.com/user-attachments/assets/5603c574-477d-47c1-b371-8fdcfc2f8c87)| **Unmasking the Truth** | He failed the vibe check. And the coffin check. | Defeat a Death mask that spawns from a coffin. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Terrible Parenting](https://github.com/user-attachments/assets/508978a8-7042-48e3-97bf-0bd42e404a41)| **Terrible Parenting** | The Orphanage's daycare program leaves a lot to be desired. | Defeat a Fallen cherub in the Orphanage. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-What a Dickhead](https://github.com/user-attachments/assets/55a72ec2-385c-4367-916c-16fa411bc982)| **What a Dickhead** | Literally. Just... literally. No metaphors here. | Defeat a Bellend. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Who&#39;s a Bad Boy_](https://github.com/user-attachments/assets/48dc5e1a-b8a5-4c8b-9260-697c1622ee06)| **Who's a Bad Boy?** | Don't pet him. Seriously, go wash your hands immediately. | Defeat a Fecal hound. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Fursona Unlocked](https://github.com/user-attachments/assets/5df83031-2bc8-45cf-87d4-c0a366071e00)| **Fursona Unlocked** | Embracing your inner furry at the worst possible time. | Defeat Pocketcat (Daan). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_The Elephant in the Room](https://github.com/user-attachments/assets/c42eef20-4436-49ff-921b-d81bec624b20)| **The Elephant in the Room** | We really need to talk about your new look, Abella. | Defeat Chaugnar. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Galaxy Brain](https://github.com/user-attachments/assets/f99388b4-c8f1-4e46-8134-b5df4b68280e)| **Galaxy Brain** | His mind expanded a bit too much. | Defeat Mastermind. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Autobots, Roll Out!](https://github.com/user-attachments/assets/9838defd-db3a-4507-a7b4-6d7e32fcf54e)| **Autobots, Roll Out!** | Wheelchair accessibility has never been this terrifying. | Defeat Mechanical dance. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-I&#39;ve Covered Wars, You Know](https://github.com/user-attachments/assets/4b6370bb-b681-4a91-9e13-5f1e74b6da30)| **I've Covered Wars, You Know** | The scoop of a lifetime, ruined by eldritch madness. | Defeat Valkyrie. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Heavyweight Champion](https://github.com/user-attachments/assets/6b2b8fad-51ef-4072-80bc-abbba0bf9430)| **Heavyweight Champion** | He didn't hear no bell. | Defeat Giant. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Sniper Elite](https://github.com/user-attachments/assets/d111ce89-5d75-469b-b30e-95f6d9cd7d6f)| **Sniper Elite** | Keep your head down and pray he misses. | Defeat Weeping scope. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Social Butterfly](https://github.com/user-attachments/assets/b7c2fd8f-4cf5-48ea-8a2e-9f4321f4f8d6)| **Social Butterfly** | That's one way to avoid socializing with the rest of the festival. | Defeat Cocoon. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Overly Attached Girlfriend](https://github.com/user-attachments/assets/24771b0e-6256-4cb5-aa91-48855786a3ff)| **Overly Attached Girlfriend** | Toxic Yuri reaches its absolute peak. | Defeat Dysmorphia. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Salaryman Snaps](https://github.com/user-attachments/assets/f70804fd-352f-4c71-a909-435eaff7683b)| **The Salaryman Snaps** | Corporate burnout hits differently in Prehevil. | Defeat Judgement. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Hell&#39;s Kitchen](https://github.com/user-attachments/assets/6b65669e-819f-40a8-bbe5-d19d9e5ddcab)| **Hell's Kitchen** | This pie is raw, and so is my flesh. | Defeat Gentleman. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Inside and Out](https://github.com/user-attachments/assets/f490fdb4-c7f9-4a09-a3d0-74c962f0eb21)| **Inside and Out** | He finally looks exactly like his personality. | Defeat Monster. |
 
 ### 💀 The VIP Guests (Main Bosses & Oddities)
 
