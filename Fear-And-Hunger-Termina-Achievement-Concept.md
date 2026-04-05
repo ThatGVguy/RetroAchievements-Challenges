@@ -74,6 +74,7 @@ The heavy hitters. You didn't really want to keep all your limbs anyway, right?
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_My Little Pony](https://github.com/user-attachments/assets/89904113-b010-4daa-b21b-a894fc037fad)| **My Little Pony** | Friendship is magic, but a shotgun blast to the face is more effective. | Defeat the Centaur. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_A Terrifying Presence](https://github.com/user-attachments/assets/fed7335d-b586-4bf9-ba95-008d02553964)| **A Terrifying Presence...** | Just when you thought the Crow Mauler was bad, now there's two of them. | Encounter and defeat the Gull bros. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Cat-tastrophe](https://github.com/user-attachments/assets/b611dfd0-fa13-4c9f-aa5c-8d16df9b59aa)| **Cat-tastrophe** | He's still smiling... even while you beat him up. | Defeat Pocketcat (Original). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Dawn of the Final Day](https://github.com/user-attachments/assets/9456d181-a080-40c5-a3d6-825cadb5c3d3)| **Dawn of the Final Day** | 72 hours, a creepy face in the sky, and a terrible fate. Turns out you didn't need an ocarina to stop it. | Defeat Rher at the top of the Hollow Tower. |
 
 ### 🔪 PvP Enabled (The Human Contestants & Clones)
 
