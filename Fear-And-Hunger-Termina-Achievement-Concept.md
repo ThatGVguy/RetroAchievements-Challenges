@@ -145,16 +145,16 @@ The 3 days are over. Time to face the music, upload your mind to the internet, o
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **Welcome to the Internet** | Uploading your consciousness to a fleshy 1940s supercomputer. | Reach Ending A (Machine God / Logic). |
-| [Icon] | **Praise the Sulfur!** | Congratulations, you won! Your prize is eternal suffering in a literal hellscape. | Reach Ending C (The Sulfur God). |
-| [Icon] | **Catch Me If You Can** | Severe PTSD is actually a great motivator for traveling the world. | Reach Ending B playing as Levi. |
-| [Icon] | **I Always Feel Like...** | ...Somebody's watching me. Seriously, who is following her? | Reach Ending B playing as Marina. |
-| [Icon] | **Embracing the Fursona** | Losing everything just makes the creepy cat costume look more appealing, doesn't it? | Reach Ending B playing as Daan. |
-| [Icon] | **Houston, We Have a Vendetta** | That's one small step for a mechanic, one giant leap to go punch a cosmic god. | Reach Ending B playing as Abella. |
-| [Icon] | **Look At Me, I'm The God Now** | Tossed the trash-talking head in a lake and started your own cult. Good for you. | Reach Ending B playing as O'saa. |
-| [Icon] | **Touching Grass** | After fighting cosmic horrors, classifying ferns doesn't seem so bad. | Reach Ending B playing as Olivia. |
-| [Icon] | **Eye of the Tiger** | Training the next generation to punch eldritch horrors in the face. Yo, Adrian, we survived! | Reach Ending B playing as Marcoh. |
-| [Icon] | **Pulitzer Prize Material** | Writing an exposé on ancient gods. I'm sure the general public will *totally* believe you. | Reach Ending B playing as Karin. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Welcome to the Internet](https://github.com/user-attachments/assets/b9dec62e-1099-4431-97cb-c484a907588e)| **Welcome to the Internet** | Uploading your consciousness to a fleshy 1940s supercomputer. | Reach Ending A (Machine God / Logic). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Praise the Sulfur!](https://github.com/user-attachments/assets/072757ce-4b62-4067-91ac-6646b4464f68)| **Praise the Sulfur!** | Congratulations, you won! Your prize is eternal suffering in a literal hellscape. | Reach Ending C (The Sulfur God). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Catch Me If You Can](https://github.com/user-attachments/assets/606a36ac-bc79-43a2-9f3e-79690bc5c5ac)| **Catch Me If You Can** | Severe PTSD is actually a great motivator for traveling the world. | Reach Ending B playing as Levi. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-I Always Feel Like](https://github.com/user-attachments/assets/21ea3e10-def2-434e-a597-6518faaa91d0)| **I Always Feel Like...** | ...Somebody's watching me. Seriously, who is following her? | Reach Ending B playing as Marina. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Embracing the Fursona](https://github.com/user-attachments/assets/47596422-2f18-4edd-9c31-59aef11ffc65)| **Embracing the Fursona** | Losing everything just makes the creepy cat costume look more appealing, doesn't it? | Reach Ending B playing as Daan. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Houston, We Have a Vendetta](https://github.com/user-attachments/assets/dc1f9cca-196f-471c-a694-ec9e7d9dc17d)| **Houston, We Have a Vendetta** | That's one small step for a mechanic, one giant leap to go punch a cosmic god. | Reach Ending B playing as Abella. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Look At Me, I&#39;m The God Now](https://github.com/user-attachments/assets/f4bdd625-de73-4012-91cb-21184d1229f9)| **Look At Me, I'm The God Now** | Tossed the trash-talking head in a lake and started your own cult. Good for you. | Reach Ending B playing as O'saa. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Touching Grass](https://github.com/user-attachments/assets/529c0ab4-7335-477a-9b5a-13105908c376)| **Touching Grass** | After fighting cosmic horrors, classifying ferns doesn't seem so bad. | Reach Ending B playing as Olivia. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Eye of the Tiger](https://github.com/user-attachments/assets/cf16d9fd-94da-454a-bf78-3c2deb606b5d)| **Eye of the Tiger** | Training the next generation to punch eldritch horrors in the face. Yo, Adrian, we survived! | Reach Ending B playing as Marcoh. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Pulitzer Prize Material](https://github.com/user-attachments/assets/5f5ceb0e-d8e9-4398-b611-7587937ad706)| **Pulitzer Prize Material** | Writing an exposé on ancient gods. I'm sure the general public will *totally* believe you. | Reach Ending B playing as Karin. |
 
 ### 📝 Author's Note :D
 
