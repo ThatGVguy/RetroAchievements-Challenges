@@ -178,3 +178,8 @@ A special thanks to the other unfortunate souls who participated in the creation
 >**Editing Process:** To guarantee high-quality reading, accurate grammar, and an optimal format for the Steam community, digital creation and language assistance tools were utilized during the final editing and proofreading phases of this text.
 
 May Rher have mercy on your coin flips. :D
+
+## 📊 Download the Achievement Tracker
+Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the festival of Prehevil! 
+
+👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger 2: Termina Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512305/Fear.hunger.2.Termina.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
