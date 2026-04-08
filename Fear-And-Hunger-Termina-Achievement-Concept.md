@@ -183,3 +183,12 @@ May Rher have mercy on your coin flips. :D
 Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the festival of Prehevil! 
 
 👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger 2: Termina Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512305/Fear.hunger.2.Termina.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
+
+## 🏆 Mastery Badge (Platinum Trophy)
+You actually did it? You suffered through every rigged coin flip, lost countless limbs, and survived the festival of Prehevil until the moon itself wept... and all you got was this shiny digital badge. 
+
+But hey, you've officially mastered the art of suffering! Thank you for playing along and enduring this torturous achievement set. Wear this badge with pride, you absolutely earned it (and you should probably seek some professional therapy now).
+
+👉 **Claim your ultimate reward:**
+
+<img width="800" height="800" alt="Fear   Hunger Termina Achievements - Mastery Bagde - ThatGVguy " src="https://github.com/user-attachments/assets/47ad05f6-3932-49c6-9cdc-6e23d6a80a3d" />
