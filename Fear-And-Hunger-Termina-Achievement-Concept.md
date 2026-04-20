@@ -204,7 +204,7 @@ May Rher have mercy on your coin flips. :D
 ## 📊 Download the Achievement Tracker
 Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the festival of Prehevil! 
 
-👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger 2: Termina Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512305/Fear.hunger.2.Termina.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
+👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger 2: Termina Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26878899/Fear.hunger.2.Termina.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
 
 ## 🏆 Mastery Badge (Platinum Trophy)
 You actually did it? You suffered through every rigged coin flip, lost countless limbs, and survived the festival of Prehevil until the moon itself wept... and all you got was this shiny digital badge. 
