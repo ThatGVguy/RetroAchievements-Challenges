@@ -191,6 +191,7 @@ Hope you enjoyed the list!! :D
 
 A special thanks to the other unfortunate souls who participated in the creation of this list:
 * **FabianX100** – For contributing the brilliant PvP achievements, the original Pocketcat encounter, O'saa's dungeon backstory, and the tragic milestone of witnessing Tanaka's first demise.
+* **Flameblocks** – For contributing a massive wave of suffering, including the deadly environmental hazards (watch out for those toilets and landmines!), the creepy Doppelgänger encounters, Prehevil's notable sightseeing locations, hidden bosses like Logic and the Maso Platoon, and the elusive Golden Ending.
 
 >
 >**Disclaimer & Credits:** This conceptual achievement list, including its structure, titles, and humorous descriptions, was designed and written by ThatGVguy as a tribute to the punishing experience of the game.
