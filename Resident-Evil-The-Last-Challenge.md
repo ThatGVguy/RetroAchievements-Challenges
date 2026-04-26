@@ -30,14 +30,32 @@ We start on the Spencer Mansion. Don't obsess over the achievements on your firs
 You only need to master ONE of these versions to proceed. Pick your favorite! :D
 
 **Play one of these:**
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy" src="https://github.com/user-attachments/assets/b6d01470-53a1-49b3-8826-21f4dc884ccf" />
+
 * [RE1 (PS1)](https://retroachievements.org/game/29328)
 * [RE1 (Saturn)](https://retroachievements.org/game/7140)
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (1)" src="https://github.com/user-attachments/assets/7761c967-f211-464d-a828-c5e07785ee5a" />
+
 * [RE: Deadly Silence (DS)](https://retroachievements.org/game/16274)
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (2)" src="https://github.com/user-attachments/assets/45263e6f-91a8-4ac1-8ad3-5a407a8befb4" />
+
 * [RE: Director's Cut (PS1)](https://retroachievements.org/game/11268)
 
 **When you MASTER your chosen version, you unlock three paths:**
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (5)" src="https://github.com/user-attachments/assets/2e59bc23-c4a4-49bc-a3b5-e038e55d1dc9" />
+
 * Resident Evil 0 (Gamecube)
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (3)" src="https://github.com/user-attachments/assets/8341dfdb-2abc-4fb7-b921-acbe2955ad2d" />
+
 * Resident Evil 1 Remake (GameCube)
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (4)" src="https://github.com/user-attachments/assets/82d7f6c9-ecb9-4b1e-b910-a37edb4bd0c9" />
+
 * Resident Evil 3: Nemesis (Classic)
 
 ---
@@ -45,9 +63,14 @@ You only need to master ONE of these versions to proceed. Pick your favorite! :D
 ## 🚂 The Origin (RE0)
 The prequel to the Spencer Mansion events, we'll get to meet Billy and discover more Umbrella lore :D
 
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (5)" src="https://github.com/user-attachments/assets/54d225a2-3a3d-4090-ad83-d5062dce563e" />
+
 **Play:** [Resident Evil 0 (GameCube)](https://retroachievements.org/game/2466)
 
 **When you MASTER this game, you unlock:**
+
+<img width="250" height="250" alt="RE the Last Challenge - ThatGVguy (6)" src="https://github.com/user-attachments/assets/e071ee2f-51bf-4f67-b829-2e051a89c938" />
+
 * **RE0 HD (Steam/Modern):** Mastered (Optional).
 
 ---
